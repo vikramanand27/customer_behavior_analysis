@@ -122,7 +122,7 @@ Created an interactive dashboard featuring:
 
 > Add your Power BI dashboard screenshot below:
 
-![Dashboard Screenshot](https://github.com/vikramanand27/customer_behavior_analysis/blob/main/Screenshot%202026-05-30%20134711.png)
+![Dashboard Screenshot](https://github.com/vikramanand27/customer_behavior_analysis/blob/main/new%20screenshot%20customer_behavior_analysis.png)
 
 ---
 
